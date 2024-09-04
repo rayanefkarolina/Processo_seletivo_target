@@ -1,0 +1,14 @@
+c:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\bin\Debug\net8.0\Calcularsoma.exe
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\bin\Debug\net8.0\Calcularsoma.deps.json
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\bin\Debug\net8.0\Calcularsoma.runtimeconfig.json
+c:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\bin\Debug\net8.0\Calcularsoma.dll
+c:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\bin\Debug\net8.0\Calcularsoma.pdb
+c:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\obj\Debug\net8.0\Calcularsoma.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\obj\Debug\net8.0\Calcularsoma.AssemblyInfoInputs.cache
+c:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\obj\Debug\net8.0\Calcularsoma.AssemblyInfo.cs
+c:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\obj\Debug\net8.0\Calcularsoma.csproj.CoreCompileInputs.cache
+c:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\obj\Debug\net8.0\Calcularsoma.dll
+c:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\obj\Debug\net8.0\refint\Calcularsoma.dll
+c:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\obj\Debug\net8.0\Calcularsoma.pdb
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\obj\Debug\net8.0\Calcularsoma.genruntimeconfig.cache
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Calcularsoma\obj\Debug\net8.0\ref\Calcularsoma.dll
