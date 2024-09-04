@@ -1,0 +1,15 @@
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\bin\Debug\net8.0\Sequênciafibonacci.exe
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\bin\Debug\net8.0\Sequênciafibonacci.deps.json
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\bin\Debug\net8.0\Sequênciafibonacci.runtimeconfig.json
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\bin\Debug\net8.0\Sequênciafibonacci.dll
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\bin\Debug\net8.0\Sequênciafibonacci.pdb
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\obj\Debug\net8.0\Sequênciafibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\obj\Debug\net8.0\Sequênciafibonacci.AssemblyInfoInputs.cache
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\obj\Debug\net8.0\Sequênciafibonacci.AssemblyInfo.cs
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\obj\Debug\net8.0\Sequênciafibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\obj\Debug\net8.0\Sequênciafibonacci.sourcelink.json
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\obj\Debug\net8.0\Sequênciafibonacci.dll
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\obj\Debug\net8.0\refint\Sequênciafibonacci.dll
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\obj\Debug\net8.0\Sequênciafibonacci.pdb
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\obj\Debug\net8.0\Sequênciafibonacci.genruntimeconfig.cache
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Sequênciafibonacci\obj\Debug\net8.0\ref\Sequênciafibonacci.dll
