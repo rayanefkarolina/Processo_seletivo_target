@@ -1,0 +1,15 @@
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\bin\Debug\net8.0\Inverterstring.exe
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\bin\Debug\net8.0\Inverterstring.deps.json
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\bin\Debug\net8.0\Inverterstring.runtimeconfig.json
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\bin\Debug\net8.0\Inverterstring.dll
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\bin\Debug\net8.0\Inverterstring.pdb
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\obj\Debug\net8.0\Inverterstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\obj\Debug\net8.0\Inverterstring.AssemblyInfoInputs.cache
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\obj\Debug\net8.0\Inverterstring.AssemblyInfo.cs
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\obj\Debug\net8.0\Inverterstring.csproj.CoreCompileInputs.cache
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\obj\Debug\net8.0\Inverterstring.sourcelink.json
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\obj\Debug\net8.0\Inverterstring.dll
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\obj\Debug\net8.0\refint\Inverterstring.dll
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\obj\Debug\net8.0\Inverterstring.pdb
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\obj\Debug\net8.0\Inverterstring.genruntimeconfig.cache
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Inverterstring\obj\Debug\net8.0\ref\Inverterstring.dll
