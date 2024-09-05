@@ -1,0 +1,15 @@
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\bin\Debug\net8.0\Faturamentoestado.exe
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\bin\Debug\net8.0\Faturamentoestado.deps.json
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\bin\Debug\net8.0\Faturamentoestado.runtimeconfig.json
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\bin\Debug\net8.0\Faturamentoestado.dll
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\bin\Debug\net8.0\Faturamentoestado.pdb
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\obj\Debug\net8.0\Faturamentoestado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\obj\Debug\net8.0\Faturamentoestado.AssemblyInfoInputs.cache
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\obj\Debug\net8.0\Faturamentoestado.AssemblyInfo.cs
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\obj\Debug\net8.0\Faturamentoestado.csproj.CoreCompileInputs.cache
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\obj\Debug\net8.0\Faturamentoestado.sourcelink.json
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\obj\Debug\net8.0\Faturamentoestado.dll
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\obj\Debug\net8.0\refint\Faturamentoestado.dll
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\obj\Debug\net8.0\Faturamentoestado.pdb
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\obj\Debug\net8.0\Faturamentoestado.genruntimeconfig.cache
+C:\Users\Rayane Vieira\Documents\Analise e Desenvolvimento de Sistemas\Processo_seletivo_target\Faturamentoestado\obj\Debug\net8.0\ref\Faturamentoestado.dll
